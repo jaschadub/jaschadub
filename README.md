@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a cross-reality game NFT based game.
+- 🔭 I’m currently working on a augmented cross-reality game NFT based game.
 - 🌱 I’m currently learning everything I can.
 - 👯 I’m looking to collaborate on NFT games.
 - 🤔 I’m looking for help with NFT games.
