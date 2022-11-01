@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a augmented cross-reality NFT based game.
+- 🔭 I’m currently working on a novel.
 - 🌱 I’m currently learning everything I can.
 - 👯 I’m looking to collaborate on most anything interesting.
 - 🤔 I’m looking for help with many projects ($$$).
