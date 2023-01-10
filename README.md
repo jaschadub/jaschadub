@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a novel.
+- 🔭 I’m currently working on [Citizenry Technology](https://citizenry.technology).
 - 🌱 I’m currently learning everything I can.
 - 👯 I’m looking to collaborate on most anything interesting.
 - 🤔 I’m looking for help with many projects ($$$).
