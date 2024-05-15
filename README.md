@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Relayable.org](https://relayable.org).
+- 🔭 I’m currently working on [CogniSys.io](https://cognisys.io).
 - 🌱 I’m currently learning everything I can.
-- 👯 I’m looking to collaborate on most anything interesting.
+- 👯 I’m looking to collaborate on almost anything interesting.
 - 🤔 I’m looking for help with many projects ($$$).
-- 💬 Ask me about cloud, cybersecurity, physcial securirty, blockchain, or most anything.
+- 💬 Ask me about cloud, cybersecurity, physical security, blockchain, or most anything.
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I love to fly sailplanes - https://youtu.be/4DQK-RZF138
 
