@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [CogniSys.io](https://cognisys.io).
+- 🔭 I’m currently working on [CogniSys.io](https://cognisys.io) and [Agentic.AF](https://agentic.af) newsletter
 - 🌱 I’m currently learning everything I can.
 - 👯 I’m looking to collaborate on almost anything interesting.
 - 🤔 I’m looking for help with many projects ($$$).
