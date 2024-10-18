@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [CogniSys.io](https://cognisys.io), [Inforensics.ai](https://inforensics.ai), and my newsletter: [Agentic.AF](https://agentic.af)
+- 🔭 I’m currently working on [CogniSys.io](https://cognisys.io) and [Inforensics.ai](https://inforensics.ai)
 - ⚡ Fun fact: I love to fly sailplanes - https://youtu.be/4DQK-RZF138
 
 ## Projects
