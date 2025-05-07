@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [CogniSys.io](https://cognisys.io) and [Inforensics.ai](https://inforensics.ai)
-- ⚡ Fun fact: I love to fly sailplanes - https://youtu.be/4DQK-RZF138
 
 ## Projects
 - [Inforensics Github](https://github.com/Inforensics)
