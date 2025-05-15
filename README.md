@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [CogniSys.io](https://cognisys.io) and [Inforensics.ai](https://inforensics.ai)
+- 🔭 I’m currently working on [CogniSys.io](https://cognisys.io), [HarmmonyDagger](https://harmonydagger.com), and [Inforensics.ai](https://inforensics.ai)
 
 ## Projects
 - [HarmonyDagger](https://github.com/jaschadub/harmonydagger)
