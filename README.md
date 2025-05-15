@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on [CogniSys.io](https://cognisys.io) and [Inforensics.ai](https://inforensics.ai)
 
 ## Projects
+- [HarmonyDagger](https://github.com/jaschadub/harmonydagger)
 - [Inforensics Github](https://github.com/Inforensics)
 - [Inforensics Huggingface](https://huggingface.co/Inforensics)
 
