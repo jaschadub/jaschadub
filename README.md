@@ -1,8 +1,10 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [CogniSys.io](https://cognisys.io), [HarmonyDagger](https://harmonydagger.com), and [Inforensics.ai](https://inforensics.ai)
+- 🔭 I’m currently working on [ThirdKey](https://thirdkey.ai), [HarmonyDagger](https://harmonydagger.com), and [Inforensics.ai](https://inforensics.ai)
 
-## Projects
+## Latest Projects
+- [AgentNull](https://github.com/jaschadub/AgentNull)
+- [VectorSmuggle](https://github.com/jaschadub/VectorSmuggle)
 - [HarmonyDagger](https://github.com/jaschadub/harmonydagger)
 - [Inforensics Github](https://github.com/Inforensics)
 - [Inforensics Huggingface](https://huggingface.co/Inforensics)
