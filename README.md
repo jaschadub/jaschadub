@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on [ThirdKey](https://thirdkey.ai), [HarmonyDagger](https://harmonydagger.com), and [Inforensics.ai](https://inforensics.ai)
 
 ## Latest Projects
+- [MockLoop](https://github.com/MockLoop)
 - [AgentNull](https://github.com/jaschadub/AgentNull)
 - [VectorSmuggle](https://github.com/jaschadub/VectorSmuggle)
 - [HarmonyDagger](https://github.com/jaschadub/harmonydagger)
