@@ -28,8 +28,21 @@
 
 ## Connect with me 🤝
 <p>
-<a href="https://github.com/jaschadub" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-<a href="https://twitter.com/jascha" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-<a href="https://www.linkedin.com/in/jaschaw" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+  <a href="https://github.com/jaschadub" target="_blank">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/jascha" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/jaschaw" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://huggingface.co/jaschadub" target="_blank">
+    <img alt="Hugging Face" src="https://img.shields.io/badge/HuggingFace-%23FFD21F.svg?&style=for-the-badge&logo=huggingface&logoColor=black" />
+  </a>
+  <a href="https://bsky.app/profile/jascha.me" target="_blank">
+    <img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-%23006AFF.svg?&style=for-the-badge&logo=bluesky&logoColor=white" />
+  </a>
 </p>
+
 
