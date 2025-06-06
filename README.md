@@ -1,12 +1,11 @@
 # Hi there 👋 I'm Jascha
 
 🔭 Currently building:
-- [ThirdKey](https://thirdkey.ai)
+- [ThirdKey](https://thirdkey.ai) | [SchemaPin](https://github.com/ThirdKeyAI/SchemaPin)
+- [MockLoop](https://github.com/MockLoop) 
 - [HarmonyDagger](https://harmonydagger.com)
-- [Inforensics.ai](https://inforensics.ai)
 
 ## Latest Projects 🚀
-- [MockLoop](https://github.com/MockLoop) 
 - [AgentNull](https://github.com/jaschadub/AgentNull)
 - [VectorSmuggle](https://github.com/jaschadub/VectorSmuggle)
 - [HarmonyDagger](https://github.com/jaschadub/harmonydagger)
