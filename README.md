@@ -44,4 +44,5 @@
   </a>
 </p>
 
+<a rel="me" href="https://infosec.exchange/@jascha">Mastodon</a>
 
