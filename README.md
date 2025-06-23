@@ -9,8 +9,8 @@
 - [AgentNull](https://github.com/jaschadub/AgentNull)
 - [VectorSmuggle](https://github.com/jaschadub/VectorSmuggle)
 - [HarmonyDagger](https://github.com/jaschadub/harmonydagger)
-- [Inforensics Github](https://github.com/Inforensics)
-- [Inforensics Huggingface](https://huggingface.co/Inforensics)
+
+  
 
 ## Tech Stack ⚙️
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
