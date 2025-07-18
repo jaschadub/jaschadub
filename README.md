@@ -1,17 +1,18 @@
 # Hi there 👋 I'm Jascha
 
 🔭 Currently building:
-- [ThirdKey](https://thirdkey.ai) | [SchemaPin](https://github.com/ThirdKeyAI/SchemaPin)
-- [MockLoop](https://github.com/MockLoop) 
-- [HarmonyDagger](https://harmonydagger.com)
+- [Rustyflow](https://github.com/jaschadub/rustyflow) — ⚙️ A lightweight, high-performance agent framework in Rust with async concurrency, type safety, and clean abstractions for AI workflows.
+- [SchemaPin](https://github.com/ThirdKeyAI/SchemaPin) — 🧷 A cryptographic protocol that ensures tool schema integrity for AI agents. Prevents "MCP Rug Pull" attacks by enabling developers to sign schemas and clients to verify them.
+- [MockLoop](https://github.com/MockLoop) — 🌐 The first AI-native API testing platform using the Model Context Protocol (MCP). Automatically generates, executes, and analyzes intelligent test scenarios.
 
 ## Latest Projects 🚀
-- [Rustyflow](https://github.com/jaschadub/rustyflow)  
-- [AgentNull](https://github.com/jaschadub/AgentNull)
-- [VectorSmuggle](https://github.com/jaschadub/VectorSmuggle)
-- [HarmonyDagger](https://github.com/jaschadub/harmonydagger)
+- [AgentNull](https://github.com/jaschadub/AgentNull) — 🕳️ An experimental AI agent runtime built with a zero-trust architecture and encrypted memory for safe and auditable automation.
+- [VectorSmuggle](https://github.com/jaschadub/VectorSmuggle) — 🧬 Covert channel research using vector embeddings to demonstrate data exfiltration within legitimate RAG operations. Built to help security teams detect and defend.
+- [HarmonyDagger](https://github.com/jaschadub/harmonydagger) — 🔐 Source repo for the HarmonyDagger system, including CLI, API, and deployment tooling.
 
-  
+## 🔬 [Research @ ThirdKey](https://research.thirdkey.ai)
+We're building next-generation AI systems for enterprise security and automation.  
+Our mission: **enhance cybersecurity**, **streamline operations**, and **democratize AI-powered protection.**
 
 ## Tech Stack ⚙️
 ![Python](https://img.shields.io/badge/Python-3.11-blue?style=for-the-badge&logo=python)
@@ -43,7 +44,7 @@
   <a href="https://bsky.app/profile/jascha.me" target="_blank">
     <img alt="Bluesky" src="https://img.shields.io/badge/Bluesky-%23006AFF.svg?&style=for-the-badge&logo=bluesky&logoColor=white" />
   </a>
+  <a href="https://infosec.exchange/@jascha" target="_blank">
+    <img alt="Mastodon" src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=mastodon&logoColor=white" />
+  </a>
 </p>
-
-<a rel="me" href="https://infosec.exchange/@jascha">Mastodon</a>
-
