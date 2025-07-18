@@ -6,6 +6,7 @@
 - [HarmonyDagger](https://harmonydagger.com)
 
 ## Latest Projects 🚀
+- [Rustyflow](https://github.com/jaschadub/rustyflow)  
 - [AgentNull](https://github.com/jaschadub/AgentNull)
 - [VectorSmuggle](https://github.com/jaschadub/VectorSmuggle)
 - [HarmonyDagger](https://github.com/jaschadub/harmonydagger)
