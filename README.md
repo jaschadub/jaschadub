@@ -6,7 +6,7 @@
 - [MockLoop](https://github.com/MockLoop) — 🌐 The first AI-native API testing platform using the Model Context Protocol (MCP). Automatically generates, executes, and analyzes intelligent test scenarios.
 
 ## Latest Projects 🚀
-- [AgentNull](https://github.com/jaschadub/AgentNull) — 🕳️ An experimental AI agent runtime built with a zero-trust architecture and encrypted memory for safe and auditable automation.
+- [AgentNull](https://github.com/jaschadub/AgentNull) — 🕳️ AI System Security Threat Catalog + Proof-of-Concepts. Collection of PoCs for using Agents, MCP, and RAG in bad ways. 
 - [VectorSmuggle](https://github.com/jaschadub/VectorSmuggle) — 🧬 Covert channel research using vector embeddings to demonstrate data exfiltration within legitimate RAG operations. Built to help security teams detect and defend.
 - [HarmonyDagger](https://github.com/jaschadub/harmonydagger) — 🔐 Source repo for the HarmonyDagger system, including CLI, API, and deployment tooling.
 
