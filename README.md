@@ -1,7 +1,7 @@
 # Hi there 👋 I'm Jascha
 
 🔭 Currently building:
-- [Rustyflow](https://github.com/jaschadub/rustyflow) — ⚙️ A lightweight, high-performance agent framework in Rust with async concurrency, type safety, and clean abstractions for AI workflows.
+- [Symbiont](https://github.com/thirdkeyai/symbiont) — ⚙️ AI-native, privacy-first programming language and agent framework for autonomous, policy-aware software development.  
 - [SchemaPin](https://github.com/ThirdKeyAI/SchemaPin) — 🧷 A cryptographic protocol that ensures tool schema integrity for AI agents. Prevents "MCP Rug Pull" attacks by enabling developers to sign schemas and clients to verify them.
 - [MockLoop](https://github.com/MockLoop) — 🌐 The first AI-native API testing platform using the Model Context Protocol (MCP). Automatically generates, executes, and analyzes intelligent test scenarios.
 
