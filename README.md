@@ -3,8 +3,10 @@
 🔭 Currently building:
 - [Symbiont](https://github.com/thirdkeyai/symbiont) — ⚙️ AI-native, privacy-first programming language and agent framework for autonomous, policy-aware software development.  
 - [SchemaPin](https://github.com/ThirdKeyAI/SchemaPin) — 🧷 A cryptographic protocol that ensures tool schema integrity for AI agents. Prevents "MCP Rug Pull" attacks by enabling developers to sign schemas and clients to verify them.
-- [AgentPin](https://github.com/ThirdKeyAI/AgentPin) - 🪪 Domain-anchored cryptographic identity for AI agents. Verify who your agents really are. 
-- [MockLoop](https://github.com/MockLoop) — 🌐 The first AI-native API testing platform using the Model Context Protocol (MCP). Automatically generates, executes, and analyzes intelligent test scenarios.
+- [AgentPin](https://github.com/ThirdKeyAI/AgentPin) — 🪪 Domain-anchored cryptographic identity for AI agents. Verify who your agents really are.
+- [ToolClad](https://github.com/ThirdKeyAI/ToolClad) — 🛡️ Declarative `.clad.toml` manifests for AI agent tools. Typed parameters, injection-safe command construction, and policy metadata. The LLM fills parameters — the executor validates and constructs commands.
+- [AgentSniff](https://github.com/ThirdKeyAI/agentsniff) — 🔍 AI Agent Network Scanner. Detect AI agents operating on your network through passive monitoring, active probing, protocol detection, and behavioral analysis.
+- [TrustVer](https://github.com/tarnover/TrustVer) — 📦 Provenance-aware versioning for AI-era software. Know how much effort an update requires, who or what wrote it, and what verification was applied.
 
 ## Other Projects 🚀
 - [AgentNull](https://github.com/jaschadub/AgentNull) — 🕳️ AI System Security Threat Catalog + Proof-of-Concepts. Collection of PoCs for using Agents, MCP, and RAG in bad ways. 
