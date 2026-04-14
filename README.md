@@ -1,17 +1,17 @@
 # Hi there 👋 I'm Jascha
 
 🔭 Currently building:
-- [Symbiont](https://github.com/thirdkeyai/symbiont) — ⚙️ AI-native, privacy-first programming language and agent framework for autonomous, policy-aware software development.  
-- [SchemaPin](https://github.com/ThirdKeyAI/SchemaPin) — 🧷 A cryptographic protocol that ensures tool schema integrity for AI agents. Prevents "MCP Rug Pull" attacks by enabling developers to sign schemas and clients to verify them.
-- [AgentPin](https://github.com/ThirdKeyAI/AgentPin) — 🪪 Domain-anchored cryptographic identity for AI agents. Verify who your agents really are.
-- [ToolClad](https://github.com/ThirdKeyAI/ToolClad) — 🛡️ Declarative `.clad.toml` manifests for AI agent tools. Typed parameters, injection-safe command construction, and policy metadata. The LLM fills parameters — the executor validates and constructs commands.
-- [AgentSniff](https://github.com/ThirdKeyAI/agentsniff) — 🔍 AI Agent Network Scanner. Detect AI agents operating on your network through passive monitoring, active probing, protocol detection, and behavioral analysis.
-- [TrustVer](https://github.com/tarnover/TrustVer) — 📦 Provenance-aware versioning for AI-era software. Know how much effort an update requires, who or what wrote it, and what verification was applied.
+- [Symbiont](https://github.com/thirdkeyai/symbiont) — ⚙️ Policy-governed agent runtime for production. A Rust-native runtime for executing AI agents and tools under explicit policy, identity, and audit controls. Same agent. Secure runtime.
+- [SchemaPin](https://github.com/ThirdKeyAI/SchemaPin) — 🧷 Cryptographic tool schema verification for AI agents and MCP servers. Prevents "MCP Rug Pull" attacks with ECDSA signatures, DNS-anchored trust, and TOFU key pinning.
+- [AgentPin](https://github.com/ThirdKeyAI/AgentPin) — 🪪 Domain-anchored cryptographic identity for AI agents. The second layer in the ThirdKey trust stack (SchemaPin → AgentPin → Symbiont).
+- [ToolClad](https://github.com/ThirdKeyAI/ToolClad) — 🛡️ Declarative tool interface contracts for agentic runtimes. `.clad.toml` manifests define the complete behavioral contract: typed parameters, validation rules, invocation, output parsing, and policy metadata.
+- [AgentSniff](https://github.com/ThirdKeyAI/agentsniff) — 🔍 AI Agent Network Scanner. Detect AI agents operating on enterprise networks via passive monitoring, active probing, protocol detection, and behavioral analysis.
+- [TrustVer](https://github.com/tarnover/TrustVer) — 📦 Provenance-aware versioning for AI-era software. Combines EffVer effort semantics with authorship tagging and signed Provenance Attestation Documents (PAD) — know the effort, the author, and the verification applied.
 
 ## Other Projects 🚀
-- [AgentNull](https://github.com/jaschadub/AgentNull) — 🕳️ AI System Security Threat Catalog + Proof-of-Concepts. Collection of PoCs for using Agents, MCP, and RAG in bad ways. 
-- [VectorSmuggle](https://github.com/jaschadub/VectorSmuggle) — 🧬 Covert channel research using vector embeddings to demonstrate data exfiltration within legitimate RAG operations. Built to help security teams detect and defend.
-- [HarmonyDagger](https://github.com/jaschadub/harmonydagger) — 🔐 Source repo for the HarmonyDagger system, including CLI, API, and deployment tooling. (Use it as a reference not in production)
+- [AgentNull](https://github.com/jaschadub/AgentNull) — 🕳️ AI System Security Threat Catalog + Proof-of-Concepts. A red team-oriented catalog of attack vectors targeting autonomous agents (MCP, LangGraph, AutoGPT), RAG pipelines, and embedding-based retrieval systems.
+- [VectorSmuggle](https://github.com/jaschadub/VectorSmuggle) — 🧬 Testing platform for covert data exfiltration via vector embeddings. Sensitive documents tunneled out under the guise of legitimate RAG operations — bypassing traditional controls through semantic obfuscation. Built to help security teams detect and defend.
+- [HarmonyDagger](https://github.com/jaschadub/harmonydagger) — 🔐 Make Music Unlearnable for Generative AI. Imperceptible psychoacoustic noise patterns that prevent effective ML training while preserving human listening quality. (Reference implementation — not for production.)
 
 ## 🔬 [Research @ ThirdKey](https://research.thirdkey.ai)
 We're building next-generation AI systems for enterprise security and automation.  
