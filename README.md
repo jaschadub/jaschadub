@@ -13,6 +13,8 @@
 - [AgentNull](https://github.com/jaschadub/AgentNull) — 🕳️ AI System Security Threat Catalog + Proof-of-Concepts. A red team-oriented catalog of attack vectors targeting autonomous agents (MCP, LangGraph, AutoGPT), RAG pipelines, and embedding-based retrieval systems.
 - [VectorSmuggle](https://github.com/jaschadub/VectorSmuggle) — 🧬 Testing platform for covert data exfiltration via vector embeddings. Sensitive documents tunneled out under the guise of legitimate RAG operations — bypassing traditional controls through semantic obfuscation. Built to help security teams detect and defend.
 - [HarmonyDagger](https://github.com/jaschadub/harmonydagger) — 🔐 Make Music Unlearnable for Generative AI. Imperceptible psychoacoustic noise patterns that prevent effective ML training while preserving human listening quality. (Reference implementation — not for production.)
+- [RelayFabric](https://github.com/RelayFabric/RelayFabric) — 🌐 Privacy-first, protocol-pluggable gateway for bridging decentralized networks — Reticulum, Meshtastic, MeshCore, Bitchat, Nostr, Signal, XMPP, and beyond.
+- [MeshTripwire](https://github.com/OutandBack/meshtripwire) — 📡 Mesh-networked tripwire sensor. Detects people via WiFi/BLE device signatures and vehicles via magnetometer board, reporting over mesh.
 
 ## 🔬 [Research @ ThirdKey](https://research.thirdkey.ai)
 We're building next-generation AI systems for enterprise security and automation.  
